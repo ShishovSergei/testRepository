@@ -6,6 +6,7 @@ public class NewClass {
         System.out.println("sdfdsfsdf");
         System.out.println("sdfsdf");
         System.out.println("sdfsdf");
+        System.out.println("asdasddsgdg");
     }
     public class NewestClass{
 
