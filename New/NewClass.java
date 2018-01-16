@@ -5,4 +5,7 @@ public class NewClass {
         System.out.println("ggfgds ");
         System.out.println("sdfdsfsdf");
     }
+    public class NewestClass{
+
+    }
 }
